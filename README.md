@@ -8,7 +8,7 @@ A simple template for creating custom tools for Cursor IDE using Model Context P
 
 1. Click "Deploy to Heroku" button
 
-    [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abernicchia-heroku/example-mcp-server)
+    [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 2. After deployment, configure Cursor:
    - Open Cursor Settings → Features
